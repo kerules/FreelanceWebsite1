@@ -1,0 +1,171 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	width: 94%;
+    background-color: #000033;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFD700;
+	font-size: 130%; 
+    text-align: center;
+    padding: 4px 39px;
+	margin: 0;
+    text-decoration: none;
+	font-weight:bold;
+}
+
+
+li a:hover {
+    background-color: #FFD700;
+	color: #000033;
+}
+.active {
+    background-color: #4CAF50;
+}
+li {
+    border-right: 5px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+/* footer */
+#footer {
+	background: #000033;
+	color:FFD700;
+	border-top:1px solid #999; 
+	height:100px;
+	margin-top:200px;
+	padding:10px 20px;
+	margin-left:50px;
+	margin-right: 50px; 
+	text-align:center;
+	font-size: 100%; 
+	height: 100px;  
+	font-weight:bold;
+}
+
+h1{
+	font: Times New Roman;
+	text-align: left;
+	font-size: 200%; 
+	margin-left: 60px; 
+}
+h2{
+	text-align: left;
+	margin-left: 110px;
+	text-transform: uppercase; 
+	font-size: 130%;
+	
+
+}
+ h4, h5, h6{
+	text-align: left;
+	font-size:100%;
+	margin-left: 100px;
+}
+h3{
+
+	text-align: left;
+	font-size:130%;
+	margin-left: 100px;
+
+}
+
+p.first{
+	font: Times New Roman; 
+	font-size: 140%;   
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: left; 
+	}
+p.second{
+	text-align: center; 
+	font-size:100%; 
+}
+p.third{
+	
+	font-size: 63%;
+	font:Arial; 
+	margin-left: 100px;
+	margin-right:100px; 
+	font-weight: normal;
+	
+}
+
+p.forth, p.fifth, p.six, p.seven{
+	text-align:left !important;
+	font-size: 100%; 
+	font: arial !important; 
+	margin-left: 100px !important;
+	margin-right:100px!important;
+}
+p.eight{
+	margin:0 !important; 
+	text-align:left !important;
+	font-size: 95%	!important; 
+	font: arial  !important; 
+	margin-left: 100px  !important;
+	margin-right:100px  !important;
+
+}
+p.ten{
+	text-align:left !important;
+	font-size: 130% !important; 
+	font: arial !important; 
+	margin-left: 100px !important;
+	margin-right:100px!important;
+	font-size: 100%; 
+	font-weight: bold; 
+	text-decoration:underline; 
+}
+p.ten2{
+	text-align:left !important;
+	font-size: 100%; 
+	font: arial !important; 
+	margin-left: 100px !important;
+	margin-right:100px!important;
+	font-size: 100%; 
+	text-indent: 30px; 
+	
+}
+p.nine{
+	margin:0;
+	text-align: left; 
+	font-size: 130%; 
+	font: Times New Roman; 
+	margin-left: 100px; 
+	margin-right: 100px; 
+	font-weight:normal; 
+	padding-top: 20px; 
+
+}
+#header{
+	margin-bottom: 50px; 
+	width:100%;
+	height:100%; 
+}
+li.legalist{
+	text-align:left;
+	font-size: 90%; 
+	font: arial; 
+	margin-left: 100px;
+	margin-right:100px;
+}
+
+img.other{
+	padding: 60px; 
+}
+
+
+
+

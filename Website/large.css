@@ -1,0 +1,43 @@
+div#mydiv{
+	width: 2000px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	width: 94%;
+    background-color: #000033;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #FFD700;
+	font-size: 130%; 
+    text-align: center;
+    padding: 4px 39px;
+	margin: 0;
+    text-decoration: none;
+	font-weight:bold;
+}
+
+
+li a:hover {
+    background-color: #FFD700;
+	color: #000033;
+}
+.active {
+    background-color: #4CAF50;
+}
+li {
+    border-right: 5px solid #bbb;
+}
+
+li:last-child {
+    border-right: none;
+}
+/* footer */
